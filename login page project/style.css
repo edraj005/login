@@ -1,0 +1,154 @@
+body{
+    background-color:rgb(53, 113, 226);
+}
+.login{
+    margin: auto;
+    width: 350px;
+    border-radius: 9px;
+    padding: 50px;
+    border: thistle;
+    padding-left: 90px;
+    background-color: whitesmoke;
+    background-size: cover;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    justify-content: center;
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#username{
+    width: 300px;
+    height: 35px;
+    border:ridge;
+    border-radius: 7px;
+    justify-content: center;
+}
+
+#pass{
+    width: 300px;
+    height: 35px;
+    border:ridge;
+    border-radius: 7px;
+    justify-content: center;
+}
+*{
+    margin: auto;
+    
+}
+
+#fb{
+    width: 300px;
+    height: 35px;
+    text-align: center;
+    text-decoration: solid;
+    font-size:large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border:transparent;
+    color: whitesmoke;
+    border-radius: 7px;
+    background-color:#3b5998;
+    justify-content: center;
+
+}
+
+#google{
+    width: 300px;
+    height: 35px;
+    text-align: center;
+    text-decoration: solid;
+    font-size:large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 7px;
+    border: ridge;
+    justify-content: center;
+
+}
+
+#log{
+
+    width: 300px;
+    height: 35px;
+    border-radius: 7px;
+    font-size: large;
+    font-family: system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style: ridge;
+    background-color:rgb(1, 137, 242);
+    justify-content: center;
+   
+    
+    
+
+}
+
+#forget{
+
+
+    justify-content: center;
+    padding-left: 25%;
+    color:rgb(1, 137, 243);
+
+
+}
+
+#accsign{
+    justify-content: center;
+    padding-left: 30px;
+}
+
+h4{
+    justify-content: center;
+    padding-left: 0%;
+    font-weight:700;
+    font-size: large;
+    font-style: oblique;
+    opacity: inherit;
+    color:silver;
+}
+
+#crtpass{
+
+    width: 300px;
+    height: 35px;
+    border:ridge;
+    border-radius: 7px;
+    justify-content: center;
+
+}
+
+#conpass{
+
+    width: 300px;
+    height: 35px;
+    border:ridge;
+    border-radius: 7px;
+    justify-content: center;
+    
+}
+
+.logo {
+    width: 100%;
+    margin-bottom: 10px;
+    
+    
+}
+.logo i {
+    position: absolute;
+}
+
+.icon {
+    padding: 10px;
+    min-width: 50px;
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
